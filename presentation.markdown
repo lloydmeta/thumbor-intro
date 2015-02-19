@@ -170,15 +170,15 @@ device, you should care about serving correctly sized images.
 --
 ## Greyscale (a filter !)
 
-* http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg
+* <a href="http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg">grayscale()</a>
 
-Note we are resizing *and* adding a filter
+* Note we are resizing *and* adding a filter
 
 --
 
 ## Multiple Filters
 
-* http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:blur(10):grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg
+* < a href="http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:blur(10):grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg">blur(10):grayscale()</a>
 
 --
 
