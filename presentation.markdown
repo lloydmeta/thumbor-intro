@@ -170,7 +170,7 @@ device, you should care about serving correctly sized images.
 --
 ## Greyscale (a filter !)
 
-http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg
+* http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg
 
 Note we are resizing *and* adding a filter
 
@@ -178,7 +178,7 @@ Note we are resizing *and* adding a filter
 
 ## Multiple Filters
 
-http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:blur(10):grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg
+* http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:blur(10):grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg
 
 --
 
@@ -206,6 +206,7 @@ ALLOW_UNSAFE_URL = True
 
 * Thumbor [Official site](http://thumbor.org/)
 * Thumbor [Github repo](https://github.com/thumbor/thumbor)
+* Thumbor [libraries list](https://github.com/thumbor/thumbor/wiki/Libraries)
 
 --
 
