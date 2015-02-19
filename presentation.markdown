@@ -178,7 +178,7 @@ device, you should care about serving correctly sized images.
 
 ## Multiple Filters
 
-* < a href="http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:blur(10):grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg">blur(10):grayscale()</a>
+* <a href="http://thumbor.thumborize.me/unsafe/fit-in/500x430/filters:blur(10):grayscale()/http://www.hdwpapers.com/walls/kate_middleton_sweet_face_wallpaper-normal.jpg">blur(10):grayscale()</a>
 
 --
 
